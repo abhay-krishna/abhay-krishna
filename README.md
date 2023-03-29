@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👨‍💻 I am a Software Development Engineer at AWS (:calendar:July 2020 - present).
 - 🔭 I’m currently working on [EKS Anywhere](https://github.com/aws/eks-anywhere) and [EKS Distro](https://github.com/aws/eks-anywhere).
 - 💬 Would love to discuss anything AWS, EKS and Kubernetes in general.
-- 📚 Currently learning Containers and Kubernetes (which is of course an infinite:infinity: process).
+- 📚 Currently learning Containers and Kubernetes, and studying for Certified Kubernetes Security Specialist (CKS).
 - You can reach me on [LinkedIn](https://www.linkedin.com/in/abhayk96/).
 
 
