@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 👨‍💻 I am a Software Development Engineer at AWS (:calendar:July 2020 - present).
-- 🔭 I’m currently working on [EKS Anywhere](https://github.com/aws/eks-anywhere) and [EKS Distro](https://github.com/aws/eks-anywhere).
+- 🔭 I’m currently working on [EKS Anywhere](https://github.com/aws/eks-anywhere) and sometimes contributing to its open-source dependencies such as [Kubernetes Cluster API](https://github.com/kubernetes-sigs/cluster-api), [Image Builder for Cluster API](https://github.com/kubernetes-sigs/image-builder), etc.
 - 💬 Would love to discuss anything AWS, EKS and Kubernetes in general.
 - 📚 Currently learning Containers and Kubernetes, and studying for Certified Kubernetes Security Specialist (CKS).
 - You can reach me on [LinkedIn](https://www.linkedin.com/in/abhayk96/).
